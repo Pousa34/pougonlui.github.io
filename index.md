@@ -1,9 +1,10 @@
 ---
 title: Evolución de los coches
-layout: Evolucion de los coches
+layout: 
 ---
 
-Los coches en su historia han evolucionado muchisimo
+Los coches en su historia han evolucionado muchisimo. El automóvil se puede identificar por haber estado en tres etapas diferentes, la etapa de propulsión por vapor, por gasolina y por electricidad.
+
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
 
 More specifically, the created site:
