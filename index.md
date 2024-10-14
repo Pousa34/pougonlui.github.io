@@ -14,6 +14,8 @@ Los coches en su historia han evolucionado muchisimo. El automóvil se puede ide
 ## Beneficios de coches modernos
 - [x] Seran más comodos que un coche antiguo
 - [x] Te daran menos fallos que un coche antiguo
-
+## Contras de coches modernos
+- [x] Mas caros
+- [X] Duran menos tiempo 
 
 
