@@ -6,7 +6,7 @@ layout: default
 Los coches en su historia han evolucionado muchisimo. El automóvil se puede identificar por haber estado en tres etapas diferentes, la etapa de propulsión por vapor, por gasolina y por electricidad.
 <img src="https://noticias.coches.com/wp-content/uploads/2014/03/volkswagen-viejo-nuevo-700x394.jpg" alt="Descripción de la imagen">
 ## Coches Antiguos
-<img src="(https://github.com/user-attachments/assets/0e4a11a5-572b-40d1-9650-59d537445428)" alt="Descripción de la imagen">
+<img src="(https://github.com/user-attachments/assets/0e4a11a5-572b-40d1-9650-59d537445428).jpg" alt="Descripción de la imagen">
 
 
 ### Beneficios de coches antiguos
