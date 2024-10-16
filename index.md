@@ -20,10 +20,10 @@ Los coches antiguos mas vendidos son:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/280px-1925_Ford_Model_T_touring.jpg" alt="Descripcion de la imagen">
 
 3. Toyota Corolla
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/1925_Ford_Model_T_touring.jpg/280px-1925_Ford_Model_T_touring.jpg" alt="Descripcion de la imagen">
+<img src="https://scene7.toyota.eu/is/image/toyotaeurope/historia-toyota-corolla1?wid=1280&fit=fit,1&ts=0&resMode=sharp2&op_usm=1.75,0.3,2,0" alt="Descripcion de la imagen">
 
 4. Volkswagen Golf
-<img src="https://www.autopista.es/uploads/s1/46/66/44/9/imagegallery-51718-5afd6380d3117.jpg" alt="Descripcion de la imagen">
+<img src="https://www.autopista.es/uploads/s1/46/66/44/9/imagegallery-51718-5afd6380d3117.jpeg" alt="Descripcion de la imagen">
 
 5. Honda Civic
 <img src="https://espirituracer.com/archivos/2023/06/honda-civic-ed7-1.webp" alt="Descripcion de la imagen">
