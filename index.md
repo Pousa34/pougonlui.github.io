@@ -14,7 +14,7 @@ Después de este construyó un segundo modelo, en el año 1770, que era algo má
 
 Los coches antiguos mas vendidos son:
 1. Volkswagen Escarabajo
-<img src="https://erclassics.b-cdn.net/media/catalog/product/cache/2/thumbnail/1920x/17f82f742ffe127f42dca9de82fb58b1/v/o/volkswagen-beetle-cabriolet-1964-_v9013-054.jpg" alt="Descripcion de la imagen"
+<img src="https://erclassics.b-cdn.net/media/catalog/product/cache/2/thumbnail/1920x/17f82f742ffe127f42dca9de82fb58b1/v/o/volkswagen-beetle-cabriolet-1964-_v9013-054.jpg" alt="Descripcion de la imagen">
 
 3. Ford Model T
 4. Toyota Corolla
