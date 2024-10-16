@@ -9,11 +9,11 @@ Los coches en su historia han evolucionado muchisimo. El automóvil se puede ide
 <img src="https://www.itevelesa.com/media/uploads/duesenberg-j-ls8u1x.jpg" alt="Descripción de la imagen">
 Los primeros automóviles eran enormes, difíciles de conducir e impulsados por sistemas de vapor. Después de este construyó un segundo modelo, en el año 1770, que era algo más grande y podía arrastrar 4.500 kilos a una velocidad de 4 km/h con un sistema de impulsión de vapor, como el Fardier.
 Los coches antiguos mas vendidos son:
-- [x] 1. Volkswagen Escarabajo
-- [x] 2. Ford Model T
-- [x] 3. Toyota Corolla
-- [x]  4. Volkswagen Golf
-- [x] 5. Honda Civic
+1. Volkswagen Escarabajo
+2. Ford Model T
+3. Toyota Corolla
+4. Volkswagen Golf
+5. Honda Civic
 ### Beneficios de coches antiguos
 - [x] Aparcaras sin preocupaciones
 - [x] Es mas barato
