@@ -7,7 +7,10 @@ Los coches en su historia han evolucionado muchisimo. El automóvil se puede ide
 <img src="https://noticias.coches.com/wp-content/uploads/2014/03/volkswagen-viejo-nuevo-700x394.jpg" alt="Descripción de la imagen">
 ## Coches Antiguos
 <img src="https://www.itevelesa.com/media/uploads/duesenberg-j-ls8u1x.jpg" alt="Descripción de la imagen">
-Los primeros automóviles eran enormes, difíciles de conducir e impulsados por sistemas de vapor. Después de este construyó un segundo modelo, en el año 1770, que era algo más grande y podía arrastrar 4.500 kilos a una velocidad de 4 km/h con un sistema de impulsión de vapor, como el Fardier.
+Los primeros automóviles eran enormes, difíciles de conducir e impulsados por sistemas de vapor. 
+
+Después de este construyó un segundo modelo, en el año 1770, que era algo más grande y podía arrastrar 4.500 kilos a una velocidad de 4 km/h con un sistema de impulsión de vapor, como el Fardier.
+
 Los coches antiguos mas vendidos son:
 1. Volkswagen Escarabajo
 2. Ford Model T
