@@ -16,3 +16,7 @@ En competiciones oficiales es regulado en sus medidas por la FIFA. Tiene forma d
 ## Las botas:
 <img src="https://innovacionybotasdefutbol.wordpress.com/wp-content/uploads/2015/10/captura-de-pantalla-2015-10-22-a-las-23-17-54.png" alt="Descripcion de la imagen">
 
+Otro de los cambios más importantes del futbol fueron las botas de futbol.
+Las botas clásicas eran de cuero negro, hasta el año 1960 cuando se crearon algunas de otros colores. 
+Aunque la gama no era muy variada se salía de lo común. 
+Unos años después cuando la tecnología hizo posible adaptar materiales a los gustos de los jugadores.
