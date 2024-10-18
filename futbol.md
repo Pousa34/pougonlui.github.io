@@ -26,3 +26,10 @@ Aunque la gama no era muy variada se salía de lo común.
 Unos años después cuando la tecnología hizo posible adaptar materiales a los gustos de los jugadores.[Tienda de Botas de Fútbol]
 
 [Tienda de Botas de Fútbol]:https://www.futbolemotion.com/botas-de-futbol?gad_source=1&gclid=EAIaIQobChMIqof_rfWXiQMVSDwGAB1RzhCqEAAYASAAEgJHQvD_BwE
+
+## Estadios de Fútbol:
+
+Antes de 1960, los campos de fútbol tenían césped natural. Más tarde, en la década de 1980, los desarrolladores instalaron sistemas de drenaje en ellos . 
+Originalmente, los campos requerían una cantidad sustancial de mantenimiento para mantenerlos en buenas condiciones. 
+Dependían de iluminación y riego regulares.
+<img scr="
