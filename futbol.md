@@ -13,6 +13,7 @@ Los primeros balones en fabricarse eran de cuero y se les conocía popularmente 
 No eran completamente esféricos, ni botaban tanto. Eran muy pesados y muy duros, y en caso de mojarse, eran muy difíciles de controlar.
 En competiciones oficiales es regulado en sus medidas por la FIFA. Tiene forma de icosaedro truncado en un 99,9 %, una circunferencia entre 68 y 70 centímetros, un peso entre 410 y 450 gramos y su composición se basa en un 80 % de poliuretano sintético y un 20 % de materiales secundarios (látex, entre otros).
 [Tienda de Balones de Fútbol]
+
 [Tienda de Balones de Fútbol]:https://www.futbolemotion.com/es/accesorios-de-futbol?gad_source=1&gclid=EAIaIQobChMIxcWJovaXiQMVBFFBAh2dXTpBEAAYASAAEgL4_fD_BwE
 
 
