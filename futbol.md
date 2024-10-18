@@ -20,4 +20,5 @@ Otro de los cambios más importantes del futbol fueron las botas de futbol.
 Las botas clásicas eran de cuero negro, hasta el año 1960 cuando se crearon algunas de otros colores. 
 Aunque la gama no era muy variada se salía de lo común. 
 Unos años después cuando la tecnología hizo posible adaptar materiales a los gustos de los jugadores.
-[link]("https://www.futbolemotion.com/botas-de-futbol?gad_source=1&gclid=EAIaIQobChMIqof_rfWXiQMVSDwGAB1RzhCqEAAYASAAEgJHQvD_BwE")
+<[link]("https://www.futbolemotion.com/botas-de-futbol?gad_source=1&gclid=EAIaIQobChMIqof_rfWXiQMVSDwGAB1RzhCqEAAYASAAEgJHQvD_BwE")>
+
