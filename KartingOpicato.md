@@ -2,6 +2,7 @@
 title: Karting O Picato
 layout: default
 ---
+logo: "https://i.pinimg.com/736x/27/fb/8e/27fb8e80bc4e6777319719f360854fd3.jpg"
 Karting O Picato conta con unha gran opcion de karts, clasificados para diferentes edades y para diferentes competiciones.
 Lo más destacado de este Karting es su gran cantida de Km y su comparación con circuitos profesionales de Karting.
 
