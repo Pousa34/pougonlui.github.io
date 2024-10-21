@@ -1,7 +1,7 @@
 ---
 title: Evolución de los coches
 layout: default
-has_childre: tru
+has_children: tru
 ---
 
 Los coches en su historia han evolucionado muchisimo. El automóvil se puede identificar por haber estado en tres etapas diferentes, la etapa de propulsión por vapor, por gasolina y por electricidad.
