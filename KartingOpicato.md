@@ -28,7 +28,7 @@ Los precios en nuestro Karting pueden variar:
 ## Localización:
 Nuestro Karting se localiza en la provincia de Lugo en el concello de O Corgo:
 
-<img src="![Localizacion Karting O Picato](https://github.com/user-attachments/assets/33be4372-dba3-4c86-b398-25d11cfbf2ea).png" alt="Descripcion de la imagen">
+<img src="https://github.com/user-attachments/assets/33be4372-dba3-4c86-b398-25d11cfbf2ea.png" alt="Descripcion de la imagen">
 
 
 
