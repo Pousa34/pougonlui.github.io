@@ -2,7 +2,7 @@
 title: Karting O Picato
 layout: default
 ---
-logo: "![Logo Karting](https://github.com/user-attachments/assets/a014dca3-e99b-428d-a547-1452ad64f3cb)
+logo: "![Logo Karting](https://github.com/user-attachments/assets/a014dca3-e99b-428d-a547-1452ad64f3cb)"
 "
 Karting O Picato conta con unha gran opcion de karts, clasificados para diferentes edades y para diferentes competiciones.
 Lo más destacado de este Karting es su gran cantida de Km y su comparación con circuitos profesionales de Karting.
