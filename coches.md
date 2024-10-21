@@ -2,7 +2,7 @@
 title: Evolución de los motores
 layout: default
 parent: Evolución de los coches
-nav_order: 2
+nav_order: 1
 ---
 # Evolucion de los motores
 La evolución de los motores ha sido un proceso constante a lo largo de la historia, desde la invención de la rueda hasta los motores eléctricos y de combustión interna modernos. En general, se puede decir que la evolución de los motores ha sido impulsada por la necesidad de aumentar la potencia y la eficiencia.
