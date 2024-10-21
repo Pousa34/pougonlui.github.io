@@ -9,7 +9,7 @@ Lo más destacado de este Karting es su gran cantida de Km y su comparación con
 
 ## Karts:
 
-<img src="https://www.gokartporriño.es/s/cc_images/teaserbox_8000835.jpeg?t=1639513621.png" alt="Descripcion de la imagen">
+<img src="https://tkart.it/uploads/2020/08/TKART_Mappa_IMMAGINE_APERTURA_MOBILE.jpg" alt="Descripcion de la imagen">
 
 En Karting O Picato tenemos una gama de Karts, distinguiendo su tamaño y su potencia de motor.
 Llegando a ser karts para niños pequeños con mui pocos cc a karts de competicón llegando a tener 125cc 
