@@ -33,6 +33,7 @@ Antes de 1960, los campos de fútbol tenían césped natural. Más tarde, en la 
 Originalmente, los campos requerían una cantidad sustancial de mantenimiento para mantenerlos en buenas condiciones. 
 Dependían de iluminación y riego regulares.
 Durante estes últimos años muchos equipos de fútbol han estado remodelando o madernizando sus estadios como el FC Barcelona o el Real Madrid. 
-Siendo este último comparado con una lata de sardinas.
+
+
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfzOjwDDXl4wdIKKzaAhuq2xAcTuvoXsHmGw&s.jpg" alt="Descripcion de la imagen">
 
