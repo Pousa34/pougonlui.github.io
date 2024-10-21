@@ -8,7 +8,9 @@ Lo más destacado de este Karting es su gran cantida de Km y su comparación con
 <img src="https://kartingvendrell.com/wp-content/uploads/2018/01/Circuito-Competici%C3%B3n-Karts-Karting-Vendrell.png" alt="Descripcion de la imagen">
 
 ## Karts:
+
 <img src="https://www.gokartporriño.es/s/cc_images/teaserbox_8000835.jpeg?t=1639513621.png" alt="Descripcion de la imagen">
+
 En Karting O Picato tenemos una gama de Karts, distinguiendo su tamaño y su potencia de motor.
 Llegando a ser karts para niños pequeños con mui pocos cc a karts de competicón llegando a tener 125cc 
 
@@ -25,6 +27,7 @@ Los precios en nuestro Karting pueden variar:
 
 ## Localización:
 Nuestro Karting se localiza en la provincia de Lugo en el concello de O Corgo:
+
 <img src="![Localizacion Karting O Picato](https://github.com/user-attachments/assets/33be4372-dba3-4c86-b398-25d11cfbf2ea).png" alt="Descripcion de la imagen">
 
 
