@@ -31,8 +31,7 @@ Los precios en nuestro Karting pueden variar:
 Nuestro Karting se localiza en la provincia de Lugo en el concello de O Corgo:
 [Localización de O Corgo]
 
-
-[Localizacion de O Corgo]:https://es.wikipedia.org/wiki/Corgo
+[Localización de O Corgo]:https://es.wikipedia.org/wiki/Corgo
 
 
 
