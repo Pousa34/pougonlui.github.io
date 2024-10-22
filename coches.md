@@ -9,5 +9,5 @@ La evolución de los motores ha sido un proceso constante a lo largo de la histo
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAyedlRTw7yo762fUOclayP28EKxDXgmr1xjC5k6oAbtN_47_d9BjPdSZluprE2YTNOwo&usqp=CAU" alt="Descripcion de la imagen">
 
-[Compra de coches]
+Para comprar coches de segunda mano o Km0 adjuntamos un enlace[Compra de coches]
 [Compra de coches]:https://www.milanuncios.com/coches-de-segunda-mano/coches-net.htm
